@@ -32,3 +32,11 @@ You may also see any lint errors in the console.
 
 ### Want to Try?
 [Click Here](https://quiz-dev-gamma.vercel.app/quiz)
+
+### Stack Tech
+- React
+- React Router
+- React Hooks
+- React Context API
+- React-icons
+- Tailwind CSS
