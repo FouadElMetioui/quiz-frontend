@@ -15,3 +15,17 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
+### Quiz Home 
+![Output Image](./images/img.png)
+
+### Quiz Quetions
+![Output Image](./images/img_1.png)
+
+### Quiz Select Option
+![Output Image](./images/img_2.png)
+
+### Quiz Progress
+![Output Image](./images/img_3.png)
+
+### Quiz Submit
+![Output Image](./images/img_4.png)
